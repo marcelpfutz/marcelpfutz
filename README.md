@@ -6,7 +6,7 @@
   
 <div style="display: inline_block"><br>
   
-# 💫 Sobre mim:
+# Sobre mim:
 Desenvolvedor web forjado no GoHorse e lutando todo dia contra ele
 
 ---
